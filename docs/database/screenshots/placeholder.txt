@@ -1,1 +1,13 @@
+This folder contains screenshots of the project.
 
+Add images such as:
+- Login Page
+- Dashboard
+- Marks Entry Page
+- Result View Page
+- Database Tables
+
+Example file names:
+login.png
+dashboard.png
+results.png
