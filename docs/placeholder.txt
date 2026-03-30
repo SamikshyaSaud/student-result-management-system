@@ -1,1 +1,9 @@
+This folder contains additional project documentation.
 
+You can include:
+- UML Diagrams (Use Case, Sequence, ER Diagram)
+- System Design Documents
+- User Manual
+- Testing Reports
+
+Currently, refer to SRMS_project.pdf for full documentation.
